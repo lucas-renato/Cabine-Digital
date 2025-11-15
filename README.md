@@ -1,4 +1,4 @@
-## 🧠 Descrição do Projeto
+##  Descrição do Projeto
 O **Cabine Digital** é um sistema proposto para modernizar a experiência de eventos acadêmicos na **UFMS**. Ele permite que os participantes tirem fotos e respondam a questionários interativos, enquanto administradores e organizadores gerenciam molduras e eventos por meio de uma interface web.
 
 O projeto tem como objetivo representar a **arquitetura do sistema Cabine Digital** utilizando o **C4 Model**, abordando os níveis de:
